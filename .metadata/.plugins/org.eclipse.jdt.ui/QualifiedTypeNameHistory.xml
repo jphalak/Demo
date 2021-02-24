@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.openqa.selenium.winium.DesktopOptions"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="winium.elements.desktop.WiniumDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.winium.WiniumDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.ie.InternetExplorerDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.DesiredCapabilities"/>
+<fullyQualifiedTypeName name="io.appium.java_client.windows.WindowsDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.HttpCommandExecutor"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.SessionId"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.RemoteWebDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.CommandExecutor"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.Response"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.Command"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.http.W3CHttpCommandCodec"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.http.W3CHttpResponseCodec"/>
+<fullyQualifiedTypeName name="org.seleniumhq.jetty9.util.Fields.Field"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+</qualifiedTypeNameHistroy>

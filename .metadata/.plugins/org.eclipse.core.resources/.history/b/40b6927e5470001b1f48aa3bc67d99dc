@@ -1,0 +1,20 @@
+package test;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.List;
+
+public class Main {
+
+	public static void main(String[] args){
+		
+		ArrayList<Student> list = new ArrayList<Student>();
+		//Collections.sort(list, comapre);
+		//list.add(e)
+		Set set = new HashSet<String>();
+		for(Student student:list){
+			
+		}
+	}
+}

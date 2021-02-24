@@ -1,0 +1,13 @@
+package test;
+
+import java.util.Map;
+
+public class test {
+
+	public Map<Course,Integer> compute(List<Student> studentList){
+		
+	}
+	
+	course
+	
+}

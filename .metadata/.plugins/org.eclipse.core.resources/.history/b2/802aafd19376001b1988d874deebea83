@@ -1,0 +1,42 @@
+package test;
+
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
+public class test {
+
+	public Map<Course, Integer> compute(List<Student> studentList) {
+
+		HashMap<Course, Integer> map = new HashMap<>();
+
+		Set<String> courseList = new HashSet<>();
+		int i = 0;
+		Course course = null;
+
+		for (Student student : studentList) {
+
+			if (courseList.add(student.getCourse().getName())) {
+				if (course != null) {
+					if (!student.getCourse().getName().equals(course.getName())) {
+						map.put(course, i);
+					}
+				}
+				course = student.getCourse();
+
+				i = 1;
+
+			} else {
+				i++;
+			}
+
+		}
+
+		return map;
+
+	}
+
+}

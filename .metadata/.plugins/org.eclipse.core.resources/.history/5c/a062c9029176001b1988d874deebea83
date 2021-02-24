@@ -1,0 +1,9 @@
+package test;
+
+public class test {
+
+	public Map<course,int value> compute(List<Student> studentList)
+	
+	course
+	
+}

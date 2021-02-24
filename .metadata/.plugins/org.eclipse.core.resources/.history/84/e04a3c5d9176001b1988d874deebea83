@@ -1,0 +1,20 @@
+package test;
+
+import java.util.List;
+import java.util.Map;
+
+public class test {
+
+	public Map<Course,Integer> compute(List<Student> studentList){
+		
+		for(Student student:studentList){
+			
+		}
+		
+		
+		return null;
+		
+	}
+	
+	
+}

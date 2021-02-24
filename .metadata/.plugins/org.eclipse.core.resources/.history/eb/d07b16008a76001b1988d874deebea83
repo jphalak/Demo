@@ -1,0 +1,17 @@
+package test;
+
+import java.io.File;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Demo {
+
+	public static void main(String[] args){
+		
+		System.setProperty("", "E:"+File.separator+"selenium"+File.separator+"chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.get("https://www.sec.gov/Archives/edgar/data/1001039/000104746918000180/a2233502zdef14a.htm#di42001_compensation_discussion_and_analysis");
+		
+	}
+}
